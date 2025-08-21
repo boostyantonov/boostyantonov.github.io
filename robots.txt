@@ -1,5 +1,5 @@
 # robots.txt
 
-Sitemap: antonovfree.github.io/sitemap.xml
+Sitemap: boostyantonov.github.io/sitemap.xml
 User-agent: *
-Allow: antonovfree.github.io
+Allow: boostyantonov.github.io
